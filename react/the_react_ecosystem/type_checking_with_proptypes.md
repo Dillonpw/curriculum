@@ -104,6 +104,9 @@ The following questions are an opportunity to reflect on key topics in this less
 
 ### Additional resources
 
-This section contains helpful links to related content. It isn't required, so consider it supplemental.
+If you are interested in using TypeScript in your upcoming projects, here are a some useful resources to help you get started.
 
-- It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+
+- [Official React documentation TypeScript guide](https://react.dev/learn/typescript)
+- [Open source React/TypeScript cheat sheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/)
+
